@@ -10,7 +10,7 @@ This mod alone won't do much, since it won't allow you to join servers if you do
 
 You can, however, turn this into YOUR OWN effective, non-invasive anti cheat and anti xray that blocks almost all hackers and cheaters. Just fork, or clone this repo, edit the list of mods permitted in the `Settings` class (you can also tweak other settings to your liking), build it and place the mod into the client **AND** into the server. Just remember, this only works with [fabric](https://fabricmc.net/), and doesn't work with Bukkit and its forks (Spigot, Paper).
 
-<sub><sup>Just keep in mind, hackers can fake this mod and cheat. This mod is not an anti cheat and not intended to be used as one. This mod may block skids with regular tools, but may not block more advanced hackers that can make their own mod that impersonates this one and allows them to cheat.</sub></sup>
+<small>Just keep in mind, hackers can fake this mod and cheat. This mod is not an anti cheat and not intended to be used as one. This mod may block skids with regular tools, but may not block more advanced hackers that can make their own mod that impersonates this one and allows them to cheat.</small>
 # What is PatSMP?
 PatSMP is a private minecraft SMP I made. It has a modpack for every player, that optimizes the game and makes it run much smoothly and also adds a [Voice Chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) to the server.
 # How do I use this mod?
