@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "patsmpmod",
+  "version": "1.0.0",
+
+  "name": "PatSMPMod",
+  "description": "Fabric Mod for the SMP server PatSMP",
+  "authors": [
+    "PatrickMSM"
+  ],
+  "contact": {
+    "homepage": "https://patsite.tk/",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/patsmpmod/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "tk.patsite.patsmpmod.PatSMPMod"
+    ]
+  },
+  "mixins": [
+    "patsmpmod.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.12.12",
+    "fabric": "*",
+    "minecraft": "1.18.x",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
