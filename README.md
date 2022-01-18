@@ -1,3 +1,4 @@
+# THIS REPO IS ARCHIVED; I AM NO LONGER USING THIS MOD
 # What is this mod?
 This mod is made for PatSMP. It doesn't really do much, it only
 * Checks resource packs
